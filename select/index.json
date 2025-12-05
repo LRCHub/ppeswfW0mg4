@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Steadfast Spirits",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-05T02:18:41.547204Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Steadfast Spirits",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_Steadfast_Spirits_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Steadfast Spirits",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_Steadfast_Spirits_Roselia.txt"
+    }
+  ]
+}
